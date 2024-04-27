@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CuboOLAP_Finanzas", "CuboOLAP_Finanzas\CuboOLAP_Finanzas.dwproj", "{9D019158-BB8D-4C77-A1EA-92F521B11058}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "InformeFinanzas", "InformeFinanzas\InformeFinanzas.rptproj", "{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Debug|Default.ActiveCfg = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Debug|Default.Build.0 = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Debug|Default.Deploy.0 = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.DebugLocal|Default.ActiveCfg = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.DebugLocal|Default.Build.0 = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.DebugLocal|Default.Deploy.0 = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Development|Default.ActiveCfg = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Development|Default.Build.0 = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Development|Default.Deploy.0 = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Release|Default.ActiveCfg = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Release|Default.Build.0 = Development
+		{9D019158-BB8D-4C77-A1EA-92F521B11058}.Release|Default.Deploy.0 = Development
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Debug|Default.ActiveCfg = Debug
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Debug|Default.Build.0 = Debug
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Debug|Default.Deploy.0 = Debug
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.DebugLocal|Default.Build.0 = DebugLocal
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Development|Default.ActiveCfg = DebugLocal
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Development|Default.Build.0 = DebugLocal
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Release|Default.ActiveCfg = Release
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Release|Default.Build.0 = Release
+		{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C4FFF6-0E24-4E0C-943F-D05239A43C8E}
+	EndGlobalSection
+EndGlobal

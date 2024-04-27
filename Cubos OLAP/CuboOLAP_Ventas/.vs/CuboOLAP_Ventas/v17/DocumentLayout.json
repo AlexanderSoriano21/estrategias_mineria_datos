@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EF2616-3758-4015-AD39-3802BC26A701}|CuboOLAP_Ventas\\CuboOLAP_Ventas.dwproj|C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Ventas\\CuboOLAP_Ventas\\Datos Financieros.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{02EF2616-3758-4015-AD39-3802BC26A701}|CuboOLAP_Ventas\\CuboOLAP_Ventas.dwproj|solutionrelative:CuboOLAP_Ventas\\Datos Financieros.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55A818-7988-40C2-BDA9-2C418D0915A3}|InformeVentas\\InformeVentas.rptproj|C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Ventas\\InformeVentas\\ReporteVentas.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{0C55A818-7988-40C2-BDA9-2C418D0915A3}|InformeVentas\\InformeVentas.rptproj|solutionrelative:InformeVentas\\ReporteVentas.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datos Financieros.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Ventas\\CuboOLAP_Ventas\\Datos Financieros.cube",
+              "RelativeDocumentMoniker": "CuboOLAP_Ventas\\Datos Financieros.cube",
+              "ToolTip": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Ventas\\CuboOLAP_Ventas\\Datos Financieros.cube [Dise\u00F1o]",
+              "RelativeToolTip": "CuboOLAP_Ventas\\Datos Financieros.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T05:29:49.031Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteVentas.rdl [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Ventas\\InformeVentas\\ReporteVentas.rdl",
+              "RelativeDocumentMoniker": "InformeVentas\\ReporteVentas.rdl",
+              "ToolTip": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Ventas\\InformeVentas\\ReporteVentas.rdl [Dise\u00F1o]",
+              "RelativeToolTip": "InformeVentas\\ReporteVentas.rdl [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T05:05:39.445Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

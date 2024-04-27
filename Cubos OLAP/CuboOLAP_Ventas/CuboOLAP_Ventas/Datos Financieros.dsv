@@ -1,0 +1,118 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="2a911158-b5e3-4541-9c7f-53a214f38c23" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Datos Financieros</ID>
+  <Name>Datos Financieros</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>Datos Financieros</DataSourceID>
+  <Schema>
+    <xs:schema id="Datos_x0020_Financieros" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Datos_x0020_Financieros" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="b171a3ef-acc7-4c85-b740-290464db089c">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_Datos" msprop:DbTableName="Datos" msprop:FriendlyName="Datos" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="a9f6d2dd-c911-4e93-bd4e-85e923188b59">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Segmento" msprop:FriendlyName="Segmento" msprop:DbColumnName="Segmento" msprop:design-time-name="99d06203-0f2b-47c4-bba0-e1ebfe83b2f7" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="255" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="País" msprop:FriendlyName="País" msprop:DbColumnName="País" msprop:design-time-name="f09c9151-78ab-4f58-b209-231855c7993b" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="255" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Producto" msprop:FriendlyName="Producto" msprop:DbColumnName="Producto" msprop:design-time-name="dec870ac-238a-4949-88f9-e52b2a4d2ed5" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="255" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Discount_x0020_Band" msprop:FriendlyName="Discount Band" msprop:DbColumnName="Discount Band" msprop:design-time-name="e2b8a0a8-d70a-40d2-bd4e-5e30dc30dd81" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="255" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Unidades_x0020_vendidas" msprop:FriendlyName="Unidades vendidas" msprop:DbColumnName="Unidades vendidas" msprop:design-time-name="2fdfd5bd-cf49-407b-b1d6-3f96fc1de7b3" type="xs:double" minOccurs="0" />
+                  <xs:element name="Precio_x0020_manufactura" msprop:FriendlyName="Precio manufactura" msprop:DbColumnName="Precio manufactura" msprop:design-time-name="e3cf82ed-2f3e-4b3d-b268-e386900a4394" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Precio_x0020_de_x0020_venta" msprop:FriendlyName="Precio de venta" msprop:DbColumnName="Precio de venta" msprop:design-time-name="ed28079c-ae39-4978-b1c8-c46549017701" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Ventas_x0020_brutas" msprop:FriendlyName="Ventas brutas" msprop:DbColumnName="Ventas brutas" msprop:design-time-name="23d7f126-47e7-49cc-808b-9ee7080af8c6" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Descuento" msprop:FriendlyName="Descuento" msprop:DbColumnName="Descuento" msprop:design-time-name="94c46a88-9a27-4684-ae6a-555ccfe88af4" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Ventas" msprop:FriendlyName="Ventas" msprop:DbColumnName="Ventas" msprop:design-time-name="61643a15-f631-4c4a-b11b-04c6274e8f0b" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Costos" msprop:FriendlyName="Costos" msprop:DbColumnName="Costos" msprop:design-time-name="a2d92450-566e-43b1-8e90-db7b199338fc" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Beneficio" msprop:FriendlyName="Beneficio" msprop:DbColumnName="Beneficio" msprop:design-time-name="7c65f654-4242-4758-89e1-12b795fecdc0" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="Fecha" msprop:FriendlyName="Fecha" msprop:DbColumnName="Fecha" msprop:design-time-name="2967062c-ed1e-484e-aff4-aa982138b1e9" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="10" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Número_x0020_de_x0020_mes" msprop:FriendlyName="Número de mes" msprop:DbColumnName="Número de mes" msprop:design-time-name="f7fdd31f-74ab-4366-b1d4-c322a3adefbd" type="xs:double" minOccurs="0" />
+                  <xs:element name="Nombre_x0020_de_x0020_mes" msprop:FriendlyName="Nombre de mes" msprop:DbColumnName="Nombre de mes" msprop:design-time-name="c9e9ee23-757a-4388-88e3-12ba5a33a47b" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="255" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Año" msprop:FriendlyName="Año" msprop:DbColumnName="Año" msprop:design-time-name="4ce1786a-6877-4382-ae5c-787940447dfe" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="255" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <Datos_x0020_Financieros xmlns="" />
+  </Schema>
+</DataSourceView>

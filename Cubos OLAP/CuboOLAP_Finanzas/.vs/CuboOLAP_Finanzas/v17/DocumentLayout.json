@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}|InformeFinanzas\\InformeFinanzas.rptproj|C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\InformeFinanzas\\ReporteFinanzas.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{9BC36B20-DD39-4204-AFEE-E70CF5A1918D}|InformeFinanzas\\InformeFinanzas.rptproj|solutionrelative:InformeFinanzas\\ReporteFinanzas.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D019158-BB8D-4C77-A1EA-92F521B11058}|CuboOLAP_Finanzas\\CuboOLAP_Finanzas.dwproj|C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\CuboOLAP_Finanzas\\Datos Financieros.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9D019158-BB8D-4C77-A1EA-92F521B11058}|CuboOLAP_Finanzas\\CuboOLAP_Finanzas.dwproj|solutionrelative:CuboOLAP_Finanzas\\Datos Financieros.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D019158-BB8D-4C77-A1EA-92F521B11058}|CuboOLAP_Finanzas\\CuboOLAP_Finanzas.dwproj|C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\CuboOLAP_Finanzas\\Datos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9D019158-BB8D-4C77-A1EA-92F521B11058}|CuboOLAP_Finanzas\\CuboOLAP_Finanzas.dwproj|solutionrelative:CuboOLAP_Finanzas\\Datos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReporteFinanzas.rdl [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\InformeFinanzas\\ReporteFinanzas.rdl",
+              "RelativeDocumentMoniker": "InformeFinanzas\\ReporteFinanzas.rdl",
+              "ToolTip": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\InformeFinanzas\\ReporteFinanzas.rdl [Dise\u00F1o]",
+              "RelativeToolTip": "InformeFinanzas\\ReporteFinanzas.rdl [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T04:31:44.545Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\CuboOLAP_Finanzas\\Datos.dim",
+              "RelativeDocumentMoniker": "CuboOLAP_Finanzas\\Datos.dim",
+              "ToolTip": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\CuboOLAP_Finanzas\\Datos.dim [Dise\u00F1o]",
+              "RelativeToolTip": "CuboOLAP_Finanzas\\Datos.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T04:13:55.745Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Datos Financieros.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\CuboOLAP_Finanzas\\Datos Financieros.cube",
+              "RelativeDocumentMoniker": "CuboOLAP_Finanzas\\Datos Financieros.cube",
+              "ToolTip": "C:\\Users\\JONATHAN G\\Desktop\\DMD2\\CuboOLAP_Finanzas\\CuboOLAP_Finanzas\\Datos Financieros.cube [Dise\u00F1o]",
+              "RelativeToolTip": "CuboOLAP_Finanzas\\Datos Financieros.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-24T04:02:18.317Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
